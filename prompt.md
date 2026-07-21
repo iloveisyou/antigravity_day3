@@ -69,4 +69,12 @@ Implementation Plan 파일이 만들어질때마다 순차적으로 저장해줘
 ## 17. INTP 기준 스프라이트 백그라운드 포지션 수정 요청
 INTP 이미지 기준 background-position:33.5% 0.63% 로 위 기준으로 모든 이미지 background-position 값을 수정해줘
 
+## 18. GitHub 저장소 연동 및 푸시 요청
+git hub 에 iloveisyou/antigravity_day3 새로 프로젝트로 연결하고 저장해줘
+
+## 19. Vercel 배포 요청
+vercel 에도 antigravity-day3 이름으로 배포해줘
+
+
+
 
